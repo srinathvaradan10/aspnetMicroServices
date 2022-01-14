@@ -1,4 +1,4 @@
-﻿namespace Ordering.Application.Models
+﻿namespace OrderingApplication.Models
 {
     public class EmailSettings
     {

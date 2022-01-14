@@ -1,4 +1,4 @@
-﻿using Catalog.API.Entities;
+﻿using CatalogAPI.Entities;
 
 namespace CatalogAPI.Repositories
 {

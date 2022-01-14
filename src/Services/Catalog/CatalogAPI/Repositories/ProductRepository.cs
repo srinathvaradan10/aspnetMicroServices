@@ -1,5 +1,5 @@
-﻿using Catalog.API.Entities;
-using CatalogAPI.Data;
+﻿using CatalogAPI.Data;
+using CatalogAPI.Entities;
 using MongoDB.Driver;
 
 namespace CatalogAPI.Repositories

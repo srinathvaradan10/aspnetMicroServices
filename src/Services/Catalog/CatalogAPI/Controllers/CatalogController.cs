@@ -1,4 +1,4 @@
-﻿using Catalog.API.Entities;
+﻿using CatalogAPI.Entities;
 using CatalogAPI.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;

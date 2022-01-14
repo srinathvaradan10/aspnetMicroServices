@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Catalog.API.Entities
+namespace CatalogAPI.Entities
 {
     public class Product
     {

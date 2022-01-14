@@ -1,7 +1,7 @@
-﻿using Ordering.Application.Models;
+﻿using OrderingApplication.Models;
 using System.Threading.Tasks;
 
-namespace Ordering.Application.Contracts.Infrastructure
+namespace OrderingApplication.Contracts.Infrastructure
 {
     public interface IEmailService
     {

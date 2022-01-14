@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Ordering.Application.Contracts.Persistence
+namespace OrderingApplication.Contracts.Persistence
 {
     public interface IOrderRepository : IAsyncRepository<Order>
     {
